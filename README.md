@@ -10,7 +10,7 @@
 <h3>Data Streams menu</h3>
 <img width="500" alt="Screen Shot 2022-06-29 at 5 47 01 PM" src="https://user-images.githubusercontent.com/94927484/176551466-e6dcdfe3-55aa-4627-9a2b-88cc1bbfb081.png">
 
-<h3>Select file</h3>
+<h3>Select '.txt' file to search</h3>
 <img width="300" alt="Screen Shot 2022-06-29 at 5 47 05 PM" src="https://user-images.githubusercontent.com/94927484/176551484-abc1b8fe-2670-4c24-b270-60f61f308d2f.png">
 
 <h3>Results (by entering a string and clicking "search")</h3>
