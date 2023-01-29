@@ -1,6 +1,3 @@
-<img width="80px" src="https://user-images.githubusercontent.com/94927484/199349092-e424c251-412c-4067-a81f-4d1e7b25f034.svg#gh-light-mode-only">
-<img width="80px" src="https://user-images.githubusercontent.com/94927484/199349307-feb7ee12-b46d-42f4-8f46-d5b56c81888d.svg#gh-dark-mode-only">
-
 <h1 align="center">IT2045C Lab 09</h1>
 <h1>DataStreams</h1>
 <p>Java Swing GUI simulates user load a '.txt' file and find instances of a specific word and what line it is found at</p>
